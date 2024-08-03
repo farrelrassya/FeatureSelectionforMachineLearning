@@ -1,4 +1,10 @@
 # FeatureSelectionforMachineLearning
+This repository exhibits the projects completed throughout the "Beginner Machine Learning in Python + ChatGPT Bonus" course, which can be found here: 
+
+<a style="width: 200px" href="https://www.udemy.com/course/feature-selection-for-machine-learning/"><img alt="Feature Selection for Machine Learning Cover" src="./01. cover.jpeg" style="width: 500px; height: auto; padding: 100px;"></a>
+
+
+
 Feature Selection for Machine Learning -- Learn filter, wrapper, and embedded methods, recursive feature elimination, exhaustive search, feature shuffling &amp; more.
 
 What will you learn? I have put together a fantastic collection of feature selection techniques, based on scientific articles, data science competitions and of course my own experience as a data scientist.
