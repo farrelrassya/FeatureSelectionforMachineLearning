@@ -1,4 +1,4 @@
-# FeatureSelectionforMachineLearning
+# Feature Selection for Machine Learning
 This repository exhibits the projects completed throughout the "Feature Selection for Machine Learning" course, which can be found here: 
 
 <a style="width: 200px" href="https://www.udemy.com/course/feature-selection-for-machine-learning/"><img alt="Feature Selection for Machine Learning Cover" src="./01. cover.jpeg" style="width: 500px; height: auto; padding: 100px;"></a>
